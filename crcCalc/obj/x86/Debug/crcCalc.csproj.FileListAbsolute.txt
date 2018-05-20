@@ -1,0 +1,29 @@
+d:\users\ikhromov\documents\visual studio 2010\Projects\crcCalc\crcCalc\bin\Debug\crcCalc.exe
+d:\users\ikhromov\documents\visual studio 2010\Projects\crcCalc\crcCalc\bin\Debug\crcCalc.pdb
+d:\users\ikhromov\documents\visual studio 2010\Projects\crcCalc\crcCalc\obj\x86\Debug\crcCalc.Form1.resources
+d:\users\ikhromov\documents\visual studio 2010\Projects\crcCalc\crcCalc\obj\x86\Debug\crcCalc.Properties.Resources.resources
+d:\users\ikhromov\documents\visual studio 2010\Projects\crcCalc\crcCalc\obj\x86\Debug\crcCalc.csproj.GenerateResource.Cache
+d:\users\ikhromov\documents\visual studio 2010\Projects\crcCalc\crcCalc\obj\x86\Debug\crcCalc.exe
+d:\users\ikhromov\documents\visual studio 2010\Projects\crcCalc\crcCalc\obj\x86\Debug\crcCalc.pdb
+C:\Users\ikhromov\Desktop\crcCalc\crcCalc\obj\x86\Debug\crcCalc.exe
+C:\Users\ikhromov\Desktop\crcCalc\crcCalc\obj\x86\Debug\crcCalc.pdb
+C:\Users\ikhromov\Desktop\crcCalc\crcCalc\bin\Debug\crcCalc.exe
+C:\Users\ikhromov\Desktop\crcCalc\crcCalc\bin\Debug\crcCalc.pdb
+C:\Users\ikhromov\Desktop\crcCalc\crcCalc\obj\x86\Debug\crcCalc.Form1.resources
+C:\Users\ikhromov\Desktop\crcCalc\crcCalc\obj\x86\Debug\crcCalc.Properties.Resources.resources
+C:\Users\ikhromov\Desktop\crcCalc\crcCalc\obj\x86\Debug\crcCalc.csproj.GenerateResource.Cache
+C:\Users\ikhromov\Desktop\PI\2_Projects\crcCalc\crcCalc\obj\x86\Debug\crcCalc.exe
+C:\Users\ikhromov\Desktop\PI\2_Projects\crcCalc\crcCalc\obj\x86\Debug\crcCalc.pdb
+C:\Users\ikhromov\Desktop\PI\2_Projects\crcCalc\crcCalc\bin\Debug\crcCalc.exe
+C:\Users\ikhromov\Desktop\PI\2_Projects\crcCalc\crcCalc\bin\Debug\crcCalc.pdb
+C:\Users\ikhromov\Desktop\PI\2_Projects\crcCalc\crcCalc\obj\x86\Debug\crcCalc.Form1.resources
+C:\Users\ikhromov\Desktop\PI\2_Projects\crcCalc\crcCalc\obj\x86\Debug\crcCalc.Properties.Resources.resources
+C:\Users\ikhromov\Desktop\PI\2_Projects\crcCalc\crcCalc\obj\x86\Debug\crcCalc.csproj.GenerateResource.Cache
+C:\_PI_Info\2_Projects\crcCalc\crcCalc\bin\Debug\crcCalc.exe
+C:\_PI_Info\2_Projects\crcCalc\crcCalc\bin\Debug\crcCalc.pdb
+C:\_PI_Info\2_Projects\crcCalc\crcCalc\obj\x86\Debug\crcCalc.Form1.resources
+C:\_PI_Info\2_Projects\crcCalc\crcCalc\obj\x86\Debug\crcCalc.Properties.Resources.resources
+C:\_PI_Info\2_Projects\crcCalc\crcCalc\obj\x86\Debug\crcCalc.csproj.GenerateResource.Cache
+C:\_PI_Info\2_Projects\crcCalc\crcCalc\obj\x86\Debug\crcCalc.csproj.CoreCompileInputs.cache
+C:\_PI_Info\2_Projects\crcCalc\crcCalc\obj\x86\Debug\crcCalc.exe
+C:\_PI_Info\2_Projects\crcCalc\crcCalc\obj\x86\Debug\crcCalc.pdb
